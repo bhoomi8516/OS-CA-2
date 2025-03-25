@@ -1,5 +1,4 @@
-This repository contains the resources related to our Content Beyond Syllabus Presentation for CA2. The project involves selecting and presenting an application-oriented research paper from IEEE, Springer, or a Scopus-indexed journal.
-
+This repository contains the resources related to our Tehnical Paper Presentation for CA2. 
 Project Details :
 
 Course: OS CA-2
